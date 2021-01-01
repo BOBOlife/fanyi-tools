@@ -15,7 +15,9 @@
 **本项目的appId和密钥已经停用**，诸位开发者可以，**在private.ts中替换自己的appID和密钥**
 
 ### 使用
-
+```text
+yarn install 
+```
 ~~~
 yarn global add ts-node-dev 
 ~~~
