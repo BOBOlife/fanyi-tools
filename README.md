@@ -19,9 +19,9 @@
 ~~~
 yarn global add ts-node-dev 
 ~~~
-
+如何使用翻译
 ```
-ts-node-dev src/cli.ts hello //hello 为要翻译的中文或英文
+yarn start hello //hello 为要翻译的中文或英文
 ```
 
 ```
