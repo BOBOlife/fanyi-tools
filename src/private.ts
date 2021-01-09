@@ -1,2 +1,2 @@
-export const appId = '20201230000659335';
-export const appSecret = 'IGBVr31Rv6rohP5M9k3J';
+export const appId = '20201030000659035';
+export const appSecret = 'IGBVr31Rv68ohP5M9k9J';
